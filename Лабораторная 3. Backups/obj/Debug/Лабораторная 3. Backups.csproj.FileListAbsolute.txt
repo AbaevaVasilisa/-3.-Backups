@@ -1,0 +1,10 @@
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\bin\Debug\Лабораторная_3.Backups.exe.config
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\bin\Debug\Лабораторная_3.Backups.exe
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\bin\Debug\Лабораторная_3.Backups.pdb
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\obj\Debug\Лабораторная_3.Backups.Properties.Resources.resources
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\obj\Debug\Лабораторная 3. Backups.csproj.GenerateResource.cache
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\obj\Debug\Лабораторная 3. Backups.csproj.CoreCompileInputs.cache
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\obj\Debug\Лабораторная_3.Backups.exe
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\obj\Debug\Лабораторная_3.Backups.pdb
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\obj\Debug\Лабораторная_3.Backups.MainForm.resources
+C:\Users\FossW\source\repos\Лабораторная 3. Backups\Лабораторная 3. Backups\obj\Debug\Лабораторная 3. Backups.csproj.AssemblyReference.cache

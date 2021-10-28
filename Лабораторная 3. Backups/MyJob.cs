@@ -15,6 +15,7 @@ namespace Лабораторная_3.Backups
     }
     public class MyJob
     {
+
         private void MakeSplitBackup(String path, List<FileLite> filesList)
         {
             foreach (var file in filesList)
